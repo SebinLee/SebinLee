@@ -4,7 +4,8 @@
 <h3> Technology for Art </h3>
 <p><strong>Bring beautiful imaginations to real world</strong><p>
 <p>
-Developer who designs | Designer who codes<br/>
+Developer, Designer, and HCI Researcher<br/>
+who interested in Virtual Concert, Entertainment Tech<br/>
 Hello, I'm Sebin Lee from 🇰🇷
 </p>
 
@@ -36,7 +37,7 @@ Hello, I'm Sebin Lee from 🇰🇷
     <img src="https://img.shields.io/badge/XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=black"/>
 </div>
     
-<br/>    
+<br/>
 
 <h3>📚 I've used 📚</h3>
 <div>   
