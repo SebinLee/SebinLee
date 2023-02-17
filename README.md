@@ -15,15 +15,19 @@ Hello, I'm Sebin Lee from 🇰🇷
     <h3>💬 Channel 💬 </h3>
     <a href="https://behance.net/sebinlee_artdev" target="_blank">
         <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=Behance&logoColor=white"/>
-    <a href="https://technology4art.notion.site/Sebin-Lee-Technology-for-art-21b81bb560c243b48c807ef1b15981d3" target="_blank">
-        <img src="https://img.shields.io/badge/Notion Resume-000000?style=flat-square&logo=Notion&logoColor=white"/>
+    <a href="https://www.linkedin.com/in/sebin-lee-326a62227/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
     </a>
-    <img src="https://img.shields.io/badge/sebinlee.artdev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/leesebin@soongsil.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </div>
 
 <br/>
 
 <h3>🖥 Skill Highlights 🎨</h3>
+<div>
+  <img src="https://img.shields.io/badge/Unity-ffffff?style=flat-square&logo=Unity&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Csharp-239120?style=flat-square&logo=CSharp&logoColor=white"/>
+</div>
 <div>
     <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
