@@ -4,8 +4,8 @@
 <h3> Technology for Art </h3>
 <p><strong>Bring beautiful imaginations to real world</strong><p>
 <p>
-Developer, Designer, and HCI Researcher<br/>
-who interested in Virtual Concert, Entertainment Tech<br/>
+Developer, Designer, and Researcher<br/>
+interested in Virtual Concert, Entertainment Tech<br/>
 Hello, I'm Sebin Lee from 🇰🇷
 </p>
 
@@ -17,6 +17,9 @@ Hello, I'm Sebin Lee from 🇰🇷
         <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=Behance&logoColor=white"/>
     <a href="https://www.linkedin.com/in/sebin-lee-326a62227/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
+    </a>
+    <a href="https://scholar.google.com/citations?user=F5-xyygAAAAJ" target="_blank">
+        <img src="https://img.shields.io/badge/GoogleScholar-4285F4?style=flat-square&logo=GoogleScholar&logoColor=white"/>
     </a>
     <img src="https://img.shields.io/badge/leesebin@soongsil.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </div>
